@@ -1,2 +1,2 @@
 # Nix
-Hi I'm nix your personal linux assistant.
+Hi, I'm Nix your personal linux assistant.
